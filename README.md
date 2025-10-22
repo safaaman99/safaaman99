@@ -1,4 +1,4 @@
-# Hi there 👋
+# Hi, I'm Safah Aman 👋
 
 🎓 **Computer Science @ The University of Texas at Dallas**  
 💻 **Aspiring Software Engineer | AI/ML & Web Development Enthusiast**  
